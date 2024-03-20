@@ -11,5 +11,4 @@ package Chapter;
  */
 public class ChapterDTO {
     private int chapterID;
-    private int
 }
