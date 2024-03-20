@@ -50,9 +50,9 @@
             <div class="form-group">
                 <label for="inputState">Book Status</label> <select
                     id="inputState" name="status" class="form-control">
-                    <option selected> -- select --< /option>
+                    <option selected> -- select -- </option>
                     <option value="1">Complete</option>
-                    <option value="Incomplete">Inactive</option>
+                    <option value="0">Incomplete</option>
                 </select>
             </div>
 

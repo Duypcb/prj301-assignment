@@ -73,7 +73,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="card">
-                            <a href="addbook.jsp"><div class="card-body text-center">
+                            <a href="edit.jsp"><div class="card-body text-center">
                                     <i class="fas fa-plus-square fa-3x"></i><br>
                                     <h4>Add Books</h4>
 
@@ -82,7 +82,7 @@
                     </div>
 
                     <div class="col-md-4">
-                        <a href="all_books.jsp"><div class="card text-center">
+                        <a href="BookList.jsp"><div class="card text-center">
                                 <div class="card-body">
                                     <div class="text-danger">
                                         <i class="fas fa-solid fa-book-open fa-3x"></i><br>

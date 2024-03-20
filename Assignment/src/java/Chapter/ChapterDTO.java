@@ -10,5 +10,6 @@ package Chapter;
  * @author Minh Hung
  */
 public class ChapterDTO {
-    
+    private int chapterID;
+    private int
 }
